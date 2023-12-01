@@ -18,6 +18,9 @@
 a{
     color: var(--text-color);
 }
+button:hover{
+     background-color:var(--ui-color);
+}
 
 header{
     /* background-color: rgb(153, 153, 214); */
